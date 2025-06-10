@@ -8,7 +8,7 @@ public class Even_Not {
     	System.out.println("Enter tha number");
     	int bee=num.nextInt();
     	if(bee%2==0) {
-            System.out.println("Even Number");
+            System.out.println("yes correct this is even number");
     	}
     	else {
     		System.out.println("Not Even Number");
